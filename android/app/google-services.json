@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76792019370",
+    "project_id": "avnet-assessment",
+    "storage_bucket": "avnet-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76792019370:android:84cab1f09c11a065b253d3",
+        "android_client_info": {
+          "package_name": "com.example.auvnet_internship_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xTHfjW0ErZ2TT-6unk579HIMUXI1AjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
