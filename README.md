@@ -20,6 +20,7 @@ minSdkVersion 23
 enable dexing in android build.gradle
 app connected to firebase and need internet connection
 project structure
+this structure have an example for each tree node from the same level and what's its child like to make it simple to view in the readme file
 - lib
     - core
     - features
